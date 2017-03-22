@@ -225,4 +225,7 @@
         <item>"/system/framework/arm64/boot.oat"</item>
         <item>"/system/framework/arm64/boot-core-libart.oat"</item>
    </string-array>
+
+   <bool name="config_useRoundIcon">true</bool>
+
 </resources>
