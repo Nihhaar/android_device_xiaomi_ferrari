@@ -228,4 +228,7 @@
 
    <bool name="config_useRoundIcon">true</bool>
 
+   <!-- Enable NightLight -->
+   <bool name="config_nightDisplayAvailable">true</bool>
+
 </resources>
