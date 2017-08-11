@@ -1,0 +1,2 @@
+#============= ueventd ==============
+allow ueventd iio_device:chr_file { relabelfrom relabelto };
