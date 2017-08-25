@@ -1,2 +1,3 @@
 PRODUCT_PACKAGES += \
-    libcamera_shim
+    libcamera_shim \
+    libril_shim
